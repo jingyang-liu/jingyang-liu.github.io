@@ -29,7 +29,7 @@ I am a Ph.D. student in [The Edward S. Rogers Sr. Department of Electrical and C
 
 Research interests: computer architecture, sustainable computing
 
-Before joining the University of Toronto, I received my M.S. degree in the [Electrical and Computer Engineering Department at the University of Illinois at Urbana Champaign](https://ece.illinois.edu/), where I worked on the desing-for-test (DfT) infrastructue and bootup sequence of a wafer-scale processor, advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/). I also received my B.S degree in Electrical Engineering from UIUC ECE.
+Before joining the University of Toronto, I received my M.S. degree in the [Electrical and Computer Engineering Department at the University of Illinois at Urbana Champaign](https://ece.illinois.edu/), where I worked on the design-for-test (DfT) infrastructue and bootup sequence of a wafer-scale processor, advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/). I also received my B.S degree in Electrical Engineering from UIUC ECE.
 
 
 
