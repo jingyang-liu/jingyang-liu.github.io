@@ -15,10 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-<!-- <h1>To Appear</h1>
-
-{% bibliography -f toappear %} -->
-
 <h1>Conferences</h1>
 
 {% bibliography -f papers %}
