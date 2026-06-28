@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in [The Edward S. Rogers Sr. Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), working with [Prof. Natalie Enright Jerger](https://www.eecg.toronto.edu/~enright/)
+I am a Ph.D. student in [The Edward S. Rogers Sr. Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), working with [Prof. Natalie Enright Jerger](https://www.eecg.toronto.edu/~enright/).
 
 Research interests: computer architecture, sustainable computing
 
