@@ -31,8 +31,6 @@ Research interests: computer architecture, sustainable computing
 
 Before joining the University of Toronto, I received my M.S. degree in the [Electrical and Computer Engineering Department at the University of Illinois at Urbana Champaign](https://ece.illinois.edu/), where I worked on the design-for-test (DfT) infrastructue and bootup sequence of a wafer-scale processor, advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/). I also received my B.S. degree in Electrical Engineering from UIUC ECE.
 
-
-
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
