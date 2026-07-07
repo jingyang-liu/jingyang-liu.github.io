@@ -26,8 +26,7 @@ latest_posts:
 ---
 
 I am a Ph.D. student in [The Edward S. Rogers Sr. Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), working with [Prof. Natalie Enright Jerger](https://www.eecg.toronto.edu/~enright/).
-
-Research interests: computer architecture, sustainable computing
+My current research focuses on sustainable computer architecture, particularly on the environmental impact of architectural design choices.
 
 Before joining the University of Toronto, I received my M.S. degree in the [Electrical and Computer Engineering Department at the University of Illinois at Urbana Champaign](https://ece.illinois.edu/), where I worked on the design-for-test (DfT) infrastructue and bootup sequence of a wafer-scale processor, advised by [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/). I also received my B.S. degree in Electrical Engineering from UIUC ECE.
 
