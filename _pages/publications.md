@@ -23,4 +23,12 @@ nav_order: 2
 
 {% bibliography -f workshops %}
 
+<h1>arXiv</h1>
+
+{% bibliography -f arxiv %}
+
+<h1>Master's Thesis</h1>
+
+{% bibliography -f thesis %}
+
 </div>
