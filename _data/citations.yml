@@ -1,12 +1,20 @@
 metadata:
+<<<<<<< HEAD
   last_updated: '2026-08-19'
+=======
+  last_updated: '2026-08-12'
+>>>>>>> 46e46ec6f1832aabc80c895d62640ddaee354e19
 papers:
   guM_5gkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'CAPA: Manufacturing Carbon Estimation for Advanced-Packaged Architectures'
     year: '2026'
   guM_5gkAAAAJ:9yKSN-GCB0IC:
+<<<<<<< HEAD
     citations: 80
+=======
+    citations: 79
+>>>>>>> 46e46ec6f1832aabc80c895d62640ddaee354e19
     title: Designing a 2048-chiplet, 14336-core waferscale processor
     year: '2021'
   guM_5gkAAAAJ:d1gkVwhDpl0C:
